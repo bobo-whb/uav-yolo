@@ -1,0 +1,12 @@
+gmqtt==0.6.16
+lapx==0.5.9.post1
+minio==7.2.7
+onnx==1.16.1
+tensorrt==10.1.0
+tensorrt-cu12==10.2.0.post1
+tensorrt-cu12-bindings==10.2.0.post1
+tensorrt-cu12-libs==10.2.0.post1
+torch==2.4.0
+torchaudio==2.4.0
+torchvision==0.19.0
+ultralytics==8.2.68
