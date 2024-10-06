@@ -54,3 +54,9 @@ inds_high = scores.numpy() < self.args.track_high_thresh
 - **utils**
   - **export_TensorRT.py**: 导出TensorRT模型的工具脚本，用于将PyTorch模型转换为TensorRT引擎。
 
+- **tracker.py**
+  实现视频目标检测、跟踪、信息上传、测距等功能的处理脚本
+
+- **run.py**
+  运行脚本
+
